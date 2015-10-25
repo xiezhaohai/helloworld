@@ -5,6 +5,7 @@
 int main(int argc, char **argv) 
 {
 	helloworld();
+	printf("This is git printf test!");
 	
 	return 0;
 }
